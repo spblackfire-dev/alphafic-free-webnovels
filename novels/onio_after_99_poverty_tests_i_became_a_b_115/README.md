@@ -1,0 +1,41 @@
+# After 99 Poverty Tests, I Became a Billionaire
+
+> **Author**: Elara | **Genre**: Material Reserve | **Status**: Complete (8 Chapters)  
+> **Tropes**: Rebirth & Revenge • Second Chance Romance • Urban Drama
+
+---
+
+## ⚡ Quick Reading Link
+👉 **[Read Chapter 1 to 5 100% Free on AlphaFic Reader](https://www.alphafic.com/reader?book=onio_after_99_poverty_tests_i_became_a_b_115&utm_source=github&utm_medium=public_repo)**  
+*(Instant in-browser reading • No app download required • Zero friction)*
+
+---
+
+## 📖 Hook & Famous Quote
+> "Isabella Sterling studied me with assessing eyes."
+
+---
+
+## 📝 Story Synopsis
+Isabella Sterling studied me with assessing eyes.
+
+She pushed a real estate purchase agreement across the polished table.
+
+"Ethan Carter, I truly adore this property."
+
+"I've already made the initial deposit. You'll handle the remaining six million m
+
+---
+
+## 🚀 How to Read the Complete Novel Online Free
+AlphaFic offers the first **5 chapters completely free** for online readers with no paywall, no app downloads, and zero mandatory account creation:
+
+1. **[Click Here to Open 'After 99 Poverty Tests, I Became a Billionaire' on AlphaFic](https://www.alphafic.com/reader?book=onio_after_99_poverty_tests_i_became_a_b_115&utm_source=github&utm_medium=public_repo)**
+2. Enjoy seamless vertical scrolling, night OLED mode, and offline caching directly on your phone or desktop.
+3. Support the original author and unlock subsequent chapters with daily free bonus coins.
+
+---
+
+### 🌐 Official Website
+Discover 250+ trending Werewolf Alpha, Mafia Don, and Billionaire romance novels at:  
+👉 **[https://www.alphafic.com](https://www.alphafic.com)**

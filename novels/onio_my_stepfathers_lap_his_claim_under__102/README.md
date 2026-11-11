@@ -1,0 +1,37 @@
+# My Stepfather's Lap: His Claim Under My Mother's Nose
+
+> **Author**: Annie | **Genre**: Romance & Billionaire | **Status**: Complete (10 Chapters)  
+> **Tropes**: Billionaire Heir • Secret Identity • High-Society Revenge
+
+---
+
+## ⚡ Quick Reading Link
+👉 **[Read Chapter 1 to 5 100% Free on AlphaFic Reader](https://www.alphafic.com/reader?book=onio_my_stepfathers_lap_his_claim_under__102&utm_source=github&utm_medium=public_repo)**  
+*(Instant in-browser reading • No app download required • Zero friction)*
+
+---
+
+## 📖 Hook & Famous Quote
+> "You're playing with fire, Madison," his deep voice sent chills down my spine as he stepped closer, blocking the doorway. "And in this house, you don't make the rules."
+
+---
+
+## 📝 Story Synopsis
+"You're playing with fire, Madison," his deep voice sent chills down my spine as he stepped closer, blocking the doorway. "And in this house, you don't make the rules."
+
+I froze in the shadows, catching a glimpse of Julian when he thought no one was
+
+---
+
+## 🚀 How to Read the Complete Novel Online Free
+AlphaFic offers the first **5 chapters completely free** for online readers with no paywall, no app downloads, and zero mandatory account creation:
+
+1. **[Click Here to Open 'My Stepfather's Lap: His Claim Under My Mother's Nose' on AlphaFic](https://www.alphafic.com/reader?book=onio_my_stepfathers_lap_his_claim_under__102&utm_source=github&utm_medium=public_repo)**
+2. Enjoy seamless vertical scrolling, night OLED mode, and offline caching directly on your phone or desktop.
+3. Support the original author and unlock subsequent chapters with daily free bonus coins.
+
+---
+
+### 🌐 Official Website
+Discover 250+ trending Werewolf Alpha, Mafia Don, and Billionaire romance novels at:  
+👉 **[https://www.alphafic.com](https://www.alphafic.com)**
