@@ -13,20 +13,22 @@ All featured books allow readers to read the **first 5 chapters 100% free** dire
 ---
 
 ## 🔥 Today's Featured Spotlight Novel
-### 📖 [Postpartum Bleeding, My Husband Played Groom for Another](https://www.alphafic.com/reader?book=onio_postpartum_bleeding_my_husband_play_165&utm_source=github&utm_medium=daily_spotlight)
+### 📖 [Betrayed by Family, I Faked My Death and Left](https://www.alphafic.com/reader?book=onio_betrayed_by_family_i_faked_my_death_118&utm_source=github&utm_medium=daily_spotlight)
 - **Genre & Tropes**: Rebirth & Revenge • Second Chance Romance • Urban Drama
-- **Author**: Poppy
+- **Author**: Wren
 - **Chapters**: 1-5 Free to Read Online
-- **Storyline**: "She's bleeding out after childbirth—where the hell is her husband? Shouldn't he be here by now?"
+- **Storyline**: I stood at the airport exit, letting the icy wind bite at the nape of my neck.
 
-I tried to explain that Ethan was a surgeon, that there'd been an emergency at his hospital.
+Five years.
 
-Then Chloe Bennett, his so-called "best girl-friend," sen...
-- 👉 **[Start Reading Today's Spotlight on AlphaFic Reader ↗](https://www.alphafic.com/reader?book=onio_postpartum_bleeding_my_husband_play_165&utm_source=github&utm_medium=daily_spotlight)**
+This city had transformed into something I barely recognized, only the ghosts of my memories lingered in the same old corners.
+
+My phone buzzed in my coat po...
+- 👉 **[Start Reading Today's Spotlight on AlphaFic Reader ↗](https://www.alphafic.com/reader?book=onio_betrayed_by_family_i_faked_my_death_118&utm_source=github&utm_medium=daily_spotlight)**
 
 ---
 
-## 📑 Binge-Worthy Library Index (251 Complete Stories)
+## 📑 Binge-Worthy Library Index (297 Complete Stories)
 
 | # | Novel Title | Genre | Free Reading Link | Local Markdown Dossier |
 | :---: | :--- | :--- | :---: | :---: |
@@ -281,6 +283,52 @@ Then Chloe Bennett, his so-called "best girl-friend," sen...
 | 249 | **Marriage beyond Redemption** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_marriage_beyond_redemption_611&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_marriage_beyond_redemption_611/README.md) |
 | 250 | **Dear Ex-Wife, Back My Son** | Werewolf & Shifter | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_dear_ex_wife_back_my_son_612&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_dear_ex_wife_back_my_son_612/README.md) |
 | 251 | **All Dotes From My Enemy** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_all_dotes_from_my_enemy_613&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_all_dotes_from_my_enemy_613/README.md) |
+| 252 | **I Plan My Death While He Bangs the Nanny** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_i_plan_my_death_while_he_bangs_t_614&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_i_plan_my_death_while_he_bangs_t_614/README.md) |
+| 253 | **Ashes of Beauty, Her Fiancé Lit the Fire** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_ashes_of_beauty_her_fiance_lit_t_615&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_ashes_of_beauty_her_fiance_lit_t_615/README.md) |
+| 254 | **My Double Kills Me, So My Husband Kills Her** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_my_double_kills_me_so_my_husband_616&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_my_double_kills_me_so_my_husband_616/README.md) |
+| 255 | **I Raised My Husband's Love Child** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_i_raised_my_husbands_love_child_617&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_i_raised_my_husbands_love_child_617/README.md) |
+| 256 | **He Ran After Her, I Ran From Him** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_he_ran_after_her_i_ran_from_him_618&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_he_ran_after_her_i_ran_from_him_618/README.md) |
+| 257 | **He Killed My Grandmother for His First Love** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_he_killed_my_grandmother_for_his_619&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_he_killed_my_grandmother_for_his_619/README.md) |
+| 258 | **Desperate Funeral** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_desperate_funeral_620&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_desperate_funeral_620/README.md) |
+| 259 | **After I Vanished, He Finally Realized What He Lost** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_after_i_vanished_he_finally_real_621&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_after_i_vanished_he_finally_real_621/README.md) |
+| 260 | **3 Years by His Hospital Bed,  He Chose Her** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_3_years_by_his_hospital_bed_he_c_622&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_3_years_by_his_hospital_bed_he_c_622/README.md) |
+| 261 | **Love Rewind** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_love_rewind_623&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_love_rewind_623/README.md) |
+| 262 | **From Left Behind to Living Lavish** | Forbidden Romance (5🌶️) | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_from_left_behind_to_living_lavis_624&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_from_left_behind_to_living_lavis_624/README.md) |
+| 263 | **Final Approach to Freedom** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_final_approach_to_freedom_625&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_final_approach_to_freedom_625/README.md) |
+| 264 | **You Only Get to See Our Twins in My Corpse** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_you_only_get_to_see_our_twins_in_626&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_you_only_get_to_see_our_twins_in_626/README.md) |
+| 265 | **The Truth Breaks My Heart** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_the_truth_breaks_my_heart_627&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_the_truth_breaks_my_heart_627/README.md) |
+| 266 | **Pregnant... and So Is His Mistress!** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_pregnant_and_so_is_his_mistress_628&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_pregnant_and_so_is_his_mistress_628/README.md) |
+| 267 | **He Picked His Mistress Over Our Dying Daughter** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_he_picked_his_mistress_over_our__629&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_he_picked_his_mistress_over_our__629/README.md) |
+| 268 | **Cheating Liar, I Don't Want Him Anymore!** | Mafia & Crime | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_cheating_liar_i_dont_want_him_an_630&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_cheating_liar_i_dont_want_him_an_630/README.md) |
+| 269 | **I Jarred Our Love's Creation and Walked Away Forever** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_i_jarred_our_loves_creation_and__631&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_i_jarred_our_loves_creation_and__631/README.md) |
+| 270 | **He Thought I Cheated, Beat Me Until I Lost Our Baby, Then Learned It Was His** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_he_thought_i_cheated_beat_me_unt_632&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_he_thought_i_cheated_beat_me_unt_632/README.md) |
+| 271 | **Dejé a Mi Marido sin Pensarlo Dos Veces** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_deje_a_mi_marido_sin_pensarlo_do_633&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_deje_a_mi_marido_sin_pensarlo_do_633/README.md) |
+| 272 | **Obsessive Boy Next Door, Get Lost!** | Mafia & Crime | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_obsessive_boy_next_door_get_lost_634&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_obsessive_boy_next_door_get_lost_634/README.md) |
+| 273 | **Wife Bears Child for First Love, I Awaken, Join MSF Forever, Now She Regrets** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_wife_bears_child_for_first_love__635&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_wife_bears_child_for_first_love__635/README.md) |
+| 274 | **Hubby Gets Our Daughter Killed** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_hubby_gets_our_daughter_killed_636&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_hubby_gets_our_daughter_killed_636/README.md) |
+| 275 | **My Husband Dumped ME** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_my_husband_dumped_me_637&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_my_husband_dumped_me_637/README.md) |
+| 276 | **My Husband and His First Love** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_my_husband_and_his_first_love_638&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_my_husband_and_his_first_love_638/README.md) |
+| 277 | **I Delivered His Mistress's Baby, While Pregnant With His** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_i_delivered_his_mistresss_baby_w_639&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_i_delivered_his_mistresss_baby_w_639/README.md) |
+| 278 | **Bleeding Out While He Said 'I Do'** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_bleeding_out_while_he_said_i_do_640&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_bleeding_out_while_he_said_i_do_640/README.md) |
+| 279 | **City Hall Freeze-Out** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_city_hall_freeze_out_641&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_city_hall_freeze_out_641/README.md) |
+| 280 | **Ashes of Love, Ruin of Dreams** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_ashes_of_love_ruin_of_dreams_642&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_ashes_of_love_ruin_of_dreams_642/README.md) |
+| 281 | **The Substitute's Contract: Seven Days to Reset My Life** | Werewolf & Shifter | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_the_substitutes_contract_seven_d_643&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_the_substitutes_contract_seven_d_643/README.md) |
+| 282 | **The Invisible Wife-Dump Him for $18.80** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_the_invisible_wife_dump_him_for__644&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_the_invisible_wife_dump_him_for__644/README.md) |
+| 283 | **He's Blind, I'm His Fake Fiancée for a Year** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_hes_blind_im_his_fake_fiancee_fo_645&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_hes_blind_im_his_fake_fiancee_fo_645/README.md) |
+| 284 | **He Buys Her a River-View Apartment While I Pay the Bills** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_he_buys_her_a_river_view_apartme_646&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_he_buys_her_a_river_view_apartme_646/README.md) |
+| 285 | **Disabled, I Watch Him Give Her a Home** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_disabled_i_watch_him_give_her_a__647&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_disabled_i_watch_him_give_her_a__647/README.md) |
+| 286 | **Day I Die from Cancer, Hubby Celebrates His Mistress's Birthday** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_day_i_die_from_cancer_hubby_cele_648&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_day_i_die_from_cancer_hubby_cele_648/README.md) |
+| 287 | **Dumps Me, So His Homie Snatches Me Up** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_dumps_me_so_his_homie_snatches_m_649&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_dumps_me_so_his_homie_snatches_m_649/README.md) |
+| 288 | **Doctor's Revenge- Watch the Intern Get Destroyed by Her Own Lies!** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_doctors_revenge_watch_the_intern_650&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_doctors_revenge_watch_the_intern_650/README.md) |
+| 289 | **En Nuestro Aniversario, Se Hizo Marido de Otra por un Díafor** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_en_nuestro_aniversario_se_hizo_m_651&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_en_nuestro_aniversario_se_hizo_m_651/README.md) |
+| 290 | **I Set You Free** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_i_set_you_free_652&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_i_set_you_free_652/README.md) |
+| 291 | **8-Month Pregnant, Hubby Demands I Cook His Birthday Feast** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_8_month_pregnant_hubby_demands_i_653&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_8_month_pregnant_hubby_demands_i_653/README.md) |
+| 292 | **Back to the Day of the Plane Crash, I Have My Fiancée Save Her True Love First** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_back_to_the_day_of_the_plane_cra_654&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_back_to_the_day_of_the_plane_cra_654/README.md) |
+| 293 | **I Marry for Real, and Now They Regret It** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_i_marry_for_real_and_now_they_re_655&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_i_marry_for_real_and_now_they_re_655/README.md) |
+| 294 | **Killed by Dad's Criminals, Dissected by Mom** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_killed_by_dads_criminals_dissect_656&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_killed_by_dads_criminals_dissect_656/README.md) |
+| 295 | **On Our Anniversary, He Became Another Woman's Husband for a Day** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_on_our_anniversary_he_became_ano_657&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_on_our_anniversary_he_became_ano_657/README.md) |
+| 296 | **My Husband's Secretary Called Me a Mistress** | Secret Baby & Romance | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_my_husbands_secretary_called_me__658&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_my_husbands_secretary_called_me__658/README.md) |
+| 297 | **Never Fall in Love again** | Romance & Drama | [📖 Read Free Ch 1-5 ↗](https://www.alphafic.com/reader?book=onio_never_fall_in_love_again_659&utm_source=github&utm_medium=readme_table) | [📄 Details](novels/onio_never_fall_in_love_again_659/README.md) |
 
 ---
 
